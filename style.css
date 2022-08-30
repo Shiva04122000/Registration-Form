@@ -1,3 +1,6 @@
+body{
+    overflow-x: none;
+}
 .container {
     width: 800px;
     margin: 80px auto;
